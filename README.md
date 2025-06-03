@@ -1,8 +1,9 @@
 ## Hi there 👋
-
- 🔭 I’m currently working on perfecting my proficiency in Python
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ My name is Adam, currently a Computer Science student eager to learn in the Tech Space!
+ 
+ 🔭 I’m currently working on perfecting my proficiency in Python.
+- 🌱 I’m currently learning to solve complex code problems.
+- 👯 I’m looking to collaborate on creating innovative projects.
 <!--
 **AdamMcRizz/AdamMcRizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
